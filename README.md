@@ -7,7 +7,7 @@ Projeto de criação de um quiz, com 10 perguntas criadas de forma aleatórios p
 </h4>
 
 <h4 align="left"> 
-    # 🛠️ Abrir e rodar o quiz : https://devdouglassouza.github.io/sorteador-numeros/
+    # 🛠️ Abrir e rodar o quiz : https://devdouglassouza.github.io/nlw-experts/
 </h4>
 
 ##Ferramentas e Tecnologias:
